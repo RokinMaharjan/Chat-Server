@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/rokin/NetBeansProjects/ChatServer2/src/com/rokin/chatserver2/commands/PrivateMessageCommand.java</file>
+            <file>file:/home/rokin/NetBeansProjects/ChatServer2/src/com/rokin/chatserver2/commands/ListAllCommand.java</file>
+            <file>file:/home/rokin/NetBeansProjects/ChatServer2/src/com/rokin/chatserver2/commands/ChatCommands.java</file>
+            <file>file:/home/rokin/NetBeansProjects/ChatServer2/src/com/rokin/chatserver2/commands/ScrapCommand.java</file>
+            <file>file:/home/rokin/NetBeansProjects/ChatServer2/src/com/rokin/chatserver2/handler/ClientListener.java</file>
+            <file>file:/home/rokin/NetBeansProjects/ChatServer2/src/com/rokin/chatserver2/commands/ChatCommandFactory.java</file>
+            <file>file:/home/rokin/NetBeansProjects/ChatServer2/src/com/rokin/chatserver2/commands/KickCommand.java</file>
+            <file>file:/home/rokin/NetBeansProjects/ChatServer2/src/com/rokin/chatserver2/userdao/UserDAO.java</file>
+            <file>file:/home/rokin/NetBeansProjects/ChatServer2/src/com/rokin/chatserver2/handler/ClientHandler.java</file>
+            <file>file:/home/rokin/NetBeansProjects/ChatServer2/src/com/rokin/chatserver2/handler/RequestHandler.java</file>
+            <file>file:/home/rokin/NetBeansProjects/ChatServer2/src/com/rokin/chatserver2/commands/PublicMessageCommand.java</file>
+            <file>file:/home/rokin/NetBeansProjects/ChatServer2/src/com/rokin/chatserver2/userdao/impl/UserDAOImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
