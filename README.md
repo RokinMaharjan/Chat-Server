@@ -1,2 +1,4 @@
 # Chat-Server
-Chat server developed in java.
+Web scrapping integrated in chat server.  
+  
+Check out the wiki page for more information.
